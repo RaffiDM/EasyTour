@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+joblib
+faker
+Flask
